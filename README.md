@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam (adammenkiel)
 
-<!--
-**adammenkiel/adammenkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Java Developer  
+🎓 Mathematics graduate (Bachelor’s degree)  
+🌐 Interested in networking, low-level systems and how things work under the hood  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+
+- ☕ Main language: **Java**
+- 🐍 Basic knowledge of **Python**
+- 🌐 Interested in **network programming (Netty, async systems)**
+- ⚙️ I like understanding internals: JVM, bytecode, memory, performance
+- 🎥 Exploring: OpenCV, Java bytecode, system design basics
+- 🤖 Slowly learning basics of Machine Learning
+- 🌍 Learning languages: English, Chinese, Russian
+
+---
+
+## 🛠️ Tech stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Netty](https://img.shields.io/badge/Netty-Networking-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Adamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=adammenkiel&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adammenkiel&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Project
+
+### 🧩 JWebPanel
+Simple web framework / experiment project in Java.
+
+🔗 https://github.com/adammenkiel/JWebPanel
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: akmenkiel@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/adam-menkiel-9750353a6/
+
+---
+
+✨ Always learning and trying to understand how things work at a deeper level.
