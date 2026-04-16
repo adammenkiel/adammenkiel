@@ -38,7 +38,7 @@
 ## 🚀 Project
 
 ### 🧩 JWebPanel
-Simple web framework / experiment project in Java.
+Spring boot project with custom netty protocol.
 
 🔗 https://github.com/adammenkiel/JWebPanel
 
