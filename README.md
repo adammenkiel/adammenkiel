@@ -9,11 +9,11 @@
 ## 🚀 About me
 
 - ☕ Main language: **Java**
-- 🐍 Basic knowledge of **Python**
-- 🌐 Interested in **network programming (Netty, async systems)**
+- 🐍 Basic knowledge of **Python, React+TS**
+- 🌐 Interested in **network programming (Spring Boot, Netty, async systems)**
 - ⚙️ I like understanding internals: JVM, bytecode, memory, performance
 - 🎥 Exploring: OpenCV, Java bytecode, system design basics
-- 🤖 Slowly learning basics of Machine Learning
+- 🤖 Learning basics of Machine Learning
 - 🌍 Learning languages: English, Chinese, Russian
 
 ---
