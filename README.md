@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adam (adammenkiel)
 
-💻 Junior Java Developer  
+💻 Java Developer  
 🎓 Mathematics graduate (Bachelor’s degree)  
 🌐 Interested in networking, low-level systems and how things work under the hood  
 
