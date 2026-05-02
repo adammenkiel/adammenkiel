@@ -31,7 +31,7 @@
 
 ![Adamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=adammenkiel&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adammenkiel&layout=compact&theme=tokyonight&t=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adammenkiel&layout=compact&theme=tokyonight)
 
 ---
 
