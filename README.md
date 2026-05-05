@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Adam (adammenkiel)
+# 👋 Hi, I am Adam
+(That's my second github account)
 
 💻 Java Developer  
 🎓 Mathematics graduate (Bachelor’s degree)  
