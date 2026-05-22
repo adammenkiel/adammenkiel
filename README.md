@@ -28,20 +28,17 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Adamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=adammenkiel&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adammenkiel&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Project
+## 🚀 Projects
 
 ### 🧩 JWebPanel
 Spring boot project with custom netty protocol.
 
 🔗 https://github.com/adammenkiel/JWebPanel
+
+### 🧩 AEP
+Experimental library for predict expressions based on data
+
+🔗 https://github.com/adammenkiel/AEP
 
 ---
 
