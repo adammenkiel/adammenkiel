@@ -3,18 +3,15 @@
 
 💻 Java Developer  
 🎓 Mathematics graduate (Bachelor’s degree)  
-🌐 Interested in networking, low-level systems and how things work under the hood  
+🌐 Interested in networking, low-level systems, bytecode and how things work under the hood  
 
 ---
 
 ## 🚀 About me
 
 - ☕ Main language: **Java**
-- 🐍 Basic knowledge of **Python, React+TS**
+- 🐍 Basic knowledge of **Python, React+TS, C++, Kotlin**
 - 🌐 Interested in **network programming (Spring Boot, Netty, async systems)**
-- ⚙️ I like understanding internals: JVM, bytecode, memory, performance
-- 🎥 Exploring: OpenCV, Java bytecode, system design basics
-- 🤖 Learning basics of Machine Learning
 - 🌍 Learning languages: English, Chinese, Russian
 
 ---
@@ -23,8 +20,9 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Netty](https://img.shields.io/badge/Netty-Networking-blue?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
