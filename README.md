@@ -42,7 +42,8 @@ Experimental library for predict expressions based on data
 
 ## 📫 Contact
 
-- ✉️ Email: akmenkiel@gmail.com  
+- ✉️ Email 1: akmenkiel@gmail.com
+- ✉️ Email 2: publicprojectsmenkiel@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/adam-menkiel-9750353a6/
 
 ---
