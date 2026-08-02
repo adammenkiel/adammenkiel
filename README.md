@@ -10,7 +10,7 @@
 ## 🚀 About me
 
 - ☕ Main language: **Java**
-- 🐍 Basic knowledge of **Python, React+TS, C++, Kotlin**
+- 🐍 Basic knowledge of **Python, React+TS, C++, Kotlin, C#**
 - 🌐 Interested in **network programming (Spring Boot, Netty, async systems)**
 - 🌍 Learning languages: English, Chinese, Russian
 
